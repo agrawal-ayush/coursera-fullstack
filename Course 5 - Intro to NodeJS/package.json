@@ -1,0 +1,21 @@
+{
+  "name": "intro_to_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.6",
+    "mongoose-currency": "^0.2.0",
+    "morgan": "^1.7.0",
+    "mongodb": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Agrawal",
+  "license": "ISC"
+}
